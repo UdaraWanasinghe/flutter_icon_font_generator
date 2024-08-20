@@ -26,4 +26,4 @@ dev_dependencies:
   test: ^1.23.1
   
 executables:
-  generator: generator
+  icon_font_generator: icon_font_generator
